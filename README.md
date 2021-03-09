@@ -23,7 +23,7 @@ Külön köszönet [Játék az adatokkal](https://jatekazadatokkal.blog.hu/) blo
 
 A magyar felhasználók gyűjteményében lévő játékok neveit és az azokra adott értékeléseiket egy adatbázisba gyűjtöttem, azokat a játéknevenként csoportosítva átlagoltam, valamint feljegyeztem hozzájuk, hogy hányan értékelték őket. A hitelesség érdekében a magyar toplistára először csak olyan játékot vettem fel, amit legalább 100 magyar felhasználó értékelt. Ez drasztikusan lecsökkentette a lista méretét, ezért készítettem egy legalább 50 értékeléses listát is. Valamint elérhetővé teszem a teljeset is.
 
-#### Eredmény
+#### Eredmények
 
 ##### Lista a magyar BGG felhasználók által értékelt játékokról, amik legalább 100 értékelést kaptak
 
@@ -345,5 +345,20 @@ Sorszám	|	Név	|	Értékelések átlaga	|	Értékelések száma
 214	|	UNO	|	5.308	|	94
 215	|	Gazdálkodj Okosan!	|	4.768	|	108
 216	|	Monopoly	|	3.726	|	117
+
+##### A 10 legismertebb játék Magyarországon az értékelések száma alapján
+
+Sorszám	|	Név	|	Értékelések átlaga	|	Értékelések száma
+------------ 	|	------------ 	|	------------ 	|	------------ 
+112	|	Carcassonne	|	7.571	|	605
+98	|	Pandemic	|	7.726	|	552
+7	|	Terraforming Mars	|	8.630	|	455
+53	|	Azul	|	8.062	|	417
+15	|	7 Wonders Duel	|	8.476	|	405
+60	|	7 Wonders	|	7.984	|	381
+182	|	Catan	|	6.966	|	363
+197	|	BANG!	|	6.772	|	325
+139	|	Dixit	|	7.414	|	323
+81	|	Ticket to Ride: Europe	|	7.841	|	290
 
 
