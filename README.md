@@ -13,10 +13,10 @@ Külön köszönet [Játék az adatokkal](https://jatekazadatokkal.blog.hu/) blo
 #### Forrás
 
 * Felhasználók száma: 12303
-* Felhasználók forrása: https://boardgamegeek.com/users/page/1?country=Hungary
-* Felhasználók összegyűjtéséhez felhasznált eszköz: Free Data Collector https://chrome.google.com/webstore/detail/free-data-collector-limit/edkhimndmikhdkmjoiphedhdoaplknic
+* Felhasználók forrása: [BGG users in Hungary](https://boardgamegeek.com/users/page/1?country=Hungary)
+* Felhasználók összegyűjtéséhez felhasznált eszköz: [Free Data Collector](https://chrome.google.com/webstore/detail/free-data-collector-limit/edkhimndmikhdkmjoiphedhdoaplknic)
 * Értékelések száma: 59235
-* Értékelések forrása: https://www.boardgamegeek.com/xmlapi2/collection (https://boardgamegeek.com/wiki/page/BGG_XML_API2)
+* Értékelések forrása: [BGG XML API2](https://boardgamegeek.com/wiki/page/BGG_XML_API2)
 * Értékelések összegyűjtéséhez felhasznált eszköz: ratings.py (saját készítésű python szkript)
 
 #### Módszer
