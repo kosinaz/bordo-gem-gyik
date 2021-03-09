@@ -17,7 +17,7 @@ Külön köszönet [Játék az adatokkal](https://jatekazadatokkal.blog.hu/) blo
 * Felhasználók összegyűjtéséhez felhasznált eszköz: [Free Data Collector](https://chrome.google.com/webstore/detail/free-data-collector-limit/edkhimndmikhdkmjoiphedhdoaplknic)
 * Értékelések száma: 59235
 * Értékelések forrása: [BGG XML API2](https://boardgamegeek.com/wiki/page/BGG_XML_API2)
-* Értékelések összegyűjtéséhez felhasznált eszköz: ratings.py (saját készítésű python szkript)
+* Értékelések összegyűjtéséhez felhasznált eszköz: [ratings.py](/ratings.py) (saját készítésű python szkript)
 
 #### Módszer
 
@@ -345,6 +345,10 @@ Sorszám	|	Név	|	Értékelések átlaga	|	Értékelések száma
 214	|	UNO	|	5.308	|	94
 215	|	Gazdálkodj Okosan!	|	4.768	|	108
 216	|	Monopoly	|	3.726	|	117
+
+##### A teljes lista
+
+[BGG HU ratings](https://github.com/kosinaz/bordo-gem-gyik/blob/main/BGG%20HU%20ratings.xlsx)
 
 ##### A 10 legismertebb játék Magyarországon az értékelések száma alapján
 
