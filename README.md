@@ -25,6 +25,8 @@ A magyar felhasználók gyűjteményében lévő játékok neveit és az azokra 
 
 #### Eredmények
 
+[Az összes adat](/userratings.sql)
+
 ##### Lista a magyar BGG felhasználók által értékelt játékokról, amik legalább 100 értékelést kaptak
 
 Sorszám	|	Név	|	Értékelések átlaga	|	Értékelések száma
