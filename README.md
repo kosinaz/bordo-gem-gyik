@@ -227,6 +227,10 @@ Sorszám	|	Név	|	Értékelések átlaga	|	Értékelések száma
 1948	|	Scrabble	|	6.219	|	123
 1933	|	Monopoly	|	3.726	|	117
 
+##### Grafikon a magyar BGG felhasználók által értékelt játékokról, amik legalább 100 értékelést kaptak, kiemelve az értékelések átlagait és a játékok számát éves bontásban
+
+![BGG HU ratings](/ratings%20per%20year.png)
+
 ##### Lista a magyar BGG felhasználók által értékelt játékokról, amik legalább 50 értékelést kaptak
 
 Sorszám	|	Név	|	Értékelések átlaga	|	Értékelések száma
