@@ -130,6 +130,7 @@ Sorszám	|	Név	|	Értékelések átlaga	|	Értékelések száma
 ##### Lista a magyar BGG felhasználók által értékelt játékokról, amik legalább 100 értékelést kaptak, az eredeti játék kiadási éve szerint rendezve
 
 Év	|	Név	|	Értékelések átlaga	|	Értékelések száma
+------------ 	|	------------ 	|	------------ 	|	------------
 2020	|	Brass: Birmingham	|	8.8	|	140
 2019	|	Wingspan	|	7.948	|	174
 2018	|	Nemesis	|	8.858	|	127
@@ -216,6 +217,15 @@ Sorszám	|	Név	|	Értékelések átlaga	|	Értékelések száma
 2000	|	Carcassonne	|	7.571	|	605
 2000	|	Citadels	|	7.476	|	214
 2000	|	Hive	|	7.435	|	177
+1999	|	Tikal	|	7.480	|	177
+1997	|	For Sale	|	7.156	|	134
+1997	|	Bohnanza	|	6.887	|	186
+1995	|	Catan	|	6.966	|	363
+1994	|	6 nimmt!	|	6.899	|	129
+1960	|	Gazdálkodj Okosan!	|	4.768	|	108
+1959	|	Risk	|	5.488	|	129
+1948	|	Scrabble	|	6.219	|	123
+1933	|	Monopoly	|	3.726	|	117
 
 ##### Lista a magyar BGG felhasználók által értékelt játékokról, amik legalább 50 értékelést kaptak
 
