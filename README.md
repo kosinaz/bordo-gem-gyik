@@ -127,6 +127,96 @@ Sorszám	|	Név	|	Értékelések átlaga	|	Értékelések száma
 94	|	Gazdálkodj Okosan!	|	4.768	|	108
 95	|	Monopoly	|	3.726	|	117
 
+##### Lista a magyar BGG felhasználók által értékelt játékokról, amik legalább 100 értékelést kaptak, az eredeti játék kiadási éve szerint rendezve
+
+Év	|	Név	|	Értékelések átlaga	|	Értékelések száma
+2020	|	Brass: Birmingham	|	8.8	|	140
+2019	|	Wingspan	|	7.948	|	174
+2018	|	Nemesis	|	8.858	|	127
+2018	|	That's Pretty Clever!	|	8.064	|	109
+2018	|	The Quacks of Quedlinburg	|	7.909	|	121
+2018	|	Architects of the West Kingdom	|	7.836	|	141
+2018	|	The Mind	|	6.798	|	189
+2017	|	Gloomhaven	|	8.608	|	125
+2017	|	Spirit Island	|	8.434	|	129
+2017	|	Terra Mystica	|	8.387	|	173
+2017	|	Azul	|	8.062	|	417
+2017	|	Sagrada	|	7.804	|	128
+2017	|	Century: Spice Road	|	7.562	|	144
+2016	|	Star Wars: Rebellion	|	8.732	|	112
+2016	|	Terraforming Mars	|	8.630	|	455
+2016	|	Great Western Trail	|	8.554	|	119
+2016	|	Scythe	|	8.384	|	278
+2016	|	Agricola (Revised Edition)	|	7.970	|	101
+2016	|	Kingdomino	|	7.772	|	268
+2016	|	Sushi Go Party!	|	7.566	|	127
+2016	|	Santorini	|	7.489	|	139
+2015	|	Through the Ages: A New Story of Civilization	|	8.564	|	147
+2015	|	7 Wonders Duel	|	8.476	|	405
+2015	|	Pandemic Legacy: Season 1	|	8.433	|	143
+2015	|	The Voyages of Marco Polo	|	8.264	|	102
+2015	|	Blood Rage	|	8.102	|	136
+2015	|	Viticulture Essential Edition	|	8.054	|	165
+2015	|	Codenames	|	7.628	|	280
+2015	|	Mysterium	|	7.458	|	157
+2015	|	Imagine	|	7.238	|	134
+2015	|	Exploding Kittens	|	6.544	|	112
+2014	|	Five Tribes	|	8.233	|	184
+2014	|	Patchwork	|	7.847	|	288
+2014	|	Dead of Winter: A Crossroads Game	|	7.822	|	141
+2014	|	Istanbul	|	7.737	|	141
+2014	|	Splendor	|	7.588	|	187
+2014	|	Sheriff of Nottingham	|	7.329	|	164
+2014	|	Colt Express	|	7.320	|	156
+2013	|	Concordia	|	8.407	|	140
+2013	|	Caverna: The Cave Farmers	|	8.401	|	102
+2013	|	Eldritch Horror	|	7.982	|	170
+2013	|	Hanamikoji	|	7.691	|	188
+2013	|	Forbidden Desert	|	7.401	|	107
+2013	|	Sushi Go!	|	7.195	|	174
+2013	|	BANG! The Dice Game	|	6.934	|	107
+2013	|	Concept	|	6.833	|	144
+2012	|	Tzolk'in: The Mayan Calendar	|	8.301	|	136
+2012	|	Lords of Waterdeep	|	8.086	|	127
+2012	|	Robinson Crusoe: Adventures on the Cursed Island	|	7.919	|	137
+2012	|	Love Letter	|	7.517	|	201
+2011	|	The Castles of Burgundy	|	8.413	|	191
+2011	|	Village	|	7.870	|	116
+2011	|	A Game of Thrones: The Board Game (Second Edition)	|	7.781	|	137
+2011	|	Takenoko	|	7.665	|	203
+2011	|	Dixit: Odyssey	|	7.612	|	173
+2011	|	Elder Sign	|	7.480	|	127
+2011	|	King of Tokyo	|	7.130	|	138
+2010	|	7 Wonders	|	7.984	|	381
+2010	|	Hanabi	|	7.146	|	245
+2010	|	Forbidden Island	|	6.847	|	105
+2009	|	Everdell	|	8.282	|	191
+2009	|	Jaipur	|	7.672	|	211
+2009	|	Small World	|	7.428	|	278
+2008	|	Battlestar Galactica: The Board Game	|	8.358	|	131
+2008	|	Stone Age	|	7.741	|	209
+2008	|	Pandemic	|	7.726	|	552
+2008	|	Dixit	|	7.414	|	323
+2008	|	Dominion	|	7.408	|	257
+2007	|	Agricola	|	8.148	|	269
+2007	|	Race for the Galaxy	|	7.878	|	156
+2007	|	Galaxy Trucker	|	7.31	|	100
+2005	|	Twilight Struggle	|	8.438	|	114
+2005	|	Ticket to Ride: Europe	|	7.841	|	290
+2005	|	Arkham Horror	|	7.565	|	161
+2004	|	Power Grid	|	7.917	|	169
+2004	|	Ticket to Ride	|	7.504	|	119
+2004	|	Saboteur	|	6.728	|	199
+2003	|	The Resistance: Avalon	|	7.851	|	155
+2003	|	Alhambra	|	6.960	|	228
+2002	|	Puerto Rico	|	8.149	|	255
+2002	|	Carcassonne: Expansion 1 – Inns & Cathedrals	|	7.755	|	135
+2002	|	BANG!	|	6.772	|	325
+2001	|	Munchkin	|	6.574	|	209
+2000	|	Carcassonne	|	7.571	|	605
+2000	|	Citadels	|	7.476	|	214
+2000	|	Hive	|	7.435	|	177
+
 ##### Lista a magyar BGG felhasználók által értékelt játékokról, amik legalább 50 értékelést kaptak
 
 Sorszám	|	Név	|	Értékelések átlaga	|	Értékelések száma
