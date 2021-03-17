@@ -229,7 +229,7 @@ Sorszám	|	Név	|	Értékelések átlaga	|	Értékelések száma
 
 ##### Grafikon a magyar BGG felhasználók által értékelt játékokról, amik legalább 100 értékelést kaptak, kiemelve az értékelések átlagait és a játékok számát éves bontásban
 
-![BGG HU ratings](/ratings%20per%20year.png)
+![BGG HU ratings](https://github.com/kosinaz/bordo-gem-gyik/blob/main/ratings%20per%20year.png)
 
 ##### Lista a magyar BGG felhasználók által értékelt játékokról, amik legalább 50 értékelést kaptak
 
